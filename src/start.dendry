@@ -1,0 +1,15 @@
+:start
+    Bienvenue dans *Le Quatrième Ordre* (prototype minimal) !
+    * Rejoindre les insurgés -> :insurrection
+    * Rester spectateur -> :spectateur
+
+:insurrection
+    Tu prends les armes avec le peuple !
+    -> :fin
+
+:spectateur
+    Tu observes sans agir.
+    -> :fin
+
+:fin
+    Merci d’avoir joué !
