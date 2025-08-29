@@ -1,0 +1,8 @@
+{
+  "title": "Le Quatrième Ordre",
+  "author": "Ton Nom",
+  "start": "start",
+  "nodes": {
+    "start": "src/start.dendry"
+  }
+}
